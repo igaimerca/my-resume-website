@@ -67,6 +67,8 @@ ul {
   font-size: 1.8rem;
   font-weight: bold;
   letter-spacing: 0.5px;
+  user-select: none;
+  pointer-events: none;
 }
 
 .nav-links {
